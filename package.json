@@ -1,0 +1,13 @@
+{
+  "name": "tc-ics2csv",
+  "version": "1.0.0",
+  "description": "Simple CLI app to export a CSV feed of multiple ics files in a folder/subfolders. Used for TourismusCockpit",
+  "keywords": [],
+  "author": "Florian Joerg",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "csv-stringify": "^1.0.4",
+    "ical": "^0.8.0"
+  }
+}
